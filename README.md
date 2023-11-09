@@ -184,5 +184,3 @@ This project is protected under the [MIT](https://choosealicense.com/licenses) L
 - [Nimbus Look and Feel](https://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/nimbus.html)
 
 ---
-
-[**Return**](#Top)
