@@ -1,3 +1,1 @@
-maris,1234,Maris,Lakss,22137089,lakss@gmail.com,I love coding.
-doe123,password,John,Doe,1234567,john@gmail.com,My First name?
-john123,password,John,Doe,1234567,john@gmail.com,My Frist Name?
+
