@@ -183,7 +183,6 @@ This project is protected under the [MIT](https://choosealicense.com/licenses) L
 - [Java Serialization](https://docs.oracle.com/javase/tutorial/jndi/objects/serial.html)
 - [Nimbus Look and Feel](https://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/nimbus.html)
 
-[**Return**](#Top)
-
 ---
 
+[**Return**](#Top)
